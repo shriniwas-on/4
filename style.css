@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/0a/54/ef/0a54ef17f9414b707278320da87680ea.gif') ;
+}
+.content{
+background-image: url('https://wallpapercave.com/wp/wp8371737.jpg');
+color: black;
+}
+p{
+    font-size: 23px;
+    margin-left: 10px;
+}
+.header{
+    background-image: url('https://c.tenor.com/HPiVEa0pYEoAAAAM/gif.gif');
+    color: whitesmoke;
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 200px;
+}
+header{
+    font-size: 150px;
+    text-align: center;
+}
+img{
+    position: relative;
+    width: 540px;
+
+}
+h1{
+    font-size: 45px;
+}
